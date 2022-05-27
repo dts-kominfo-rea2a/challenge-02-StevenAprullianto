@@ -48,11 +48,6 @@ function lakukanLooping(arrPegawai) {
      }
   }
 
-  // for (let i = 0; i < dataYangAkanDilooping.length; i++) {
-  //    if(dataYangAkanDilooping[i].jenisKelamin === "F"){
-  //       jumlahWanita += dataYangAkanDilooping[i].jenisKelamin.length;   
-  //    }
-  // }
   /*
     TODO 4: Buatlah sebuah variabel bernama "komentar"
       yang akan mengomentari apakah lebih banyak Pria atau Wanita
